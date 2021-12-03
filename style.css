@@ -1,0 +1,179 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(https://tse1.mm.bing.net/th?id=OIP.LLjXkRQNNzQbWfkVanf0FgHaDr&pid=Api&P=0&w=359&h=179);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+ul {
+    float: right;
+    list-style-type: none;
+    margin-top: 28px;
+}
+
+ul li {
+    display: inline-block;
+}
+
+ul li a {
+    text-decoration: none;
+    color: rgb(206, 21, 21);
+    padding: 5px 20px;
+    border: 1px solid rgb(151, 204, 200);
+    font-family: 'Franklin Gothic Medium';
+    transition: 0.6s ease;
+}
+
+ul li a:hover {
+    background-color:rgb(247, 247, 247);
+    color:rgba(160, 21, 21, 0.76);
+}
+
+ul li.active a {
+    background-color: rgb(175, 8, 8);
+    color: #fff;
+}
+
+.logo img {
+    float: left;
+    width: 150px;
+    height: auto;
+}
+
+.main {
+    max-width: 1300px;
+    margin: auto;
+}
+
+.title {
+    position: absolute;
+    top: 46%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.title h1 {
+    color: rgb(175, 47, 8);
+    background-color: #fff;
+    border-radius: 10px 10px 10px 10px;
+    font-size: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif ; 
+}
+
+.title2 {
+    position: absolute;
+    top: 57%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.title2 h1 {
+    color: #fff;
+    background-color: rgb(175, 75, 8);
+    border-radius: 7px 7px 7px 7px;
+    font-size: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+.button {
+    position: absolute;
+    top: 66%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.btn {
+    border: 1px solid #fff;
+    padding: 10px 30px;
+    color: rgb(175, 8, 8);
+    background-color: #fff;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium';
+    transition: 0.6s ease;
+}
+
+.btn:hover {
+    background-color: rgb(69, 175, 8);
+    color: #fff;
+}
+
+table, th, td {
+  border: 3px solid rgb(255, 5, 5);
+  border-collapse: collapse;
+}
+th, td {
+  background-color: rgb(252, 249, 249);
+}
+
+.achtergrond {
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(https://tse1.mm.bing.net/th?id=OIP.LLjXkRQNNzQbWfkVanf0FgHaDr&pid=Api&P=0&w=359&h=179);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+  
+}
+.leden h1{
+  color: rgb(250, 5, 5);
+}
+
+.tekst p{
+  color: white; 
+  font-family: Georgia, 'Times New Roman', Times, serif ; 
+}
+
+
+
+.info {
+   background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(https://tse1.mm.bing.net/th?id=OIP.LLjXkRQNNzQbWfkVanf0FgHaDr&pid=Api&P=0&w=359&h=179);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+  
+}
+.tekstkleur h1{ color: rgb(255, 4, 4);
+font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+.pkleur{
+  color: rgb(255, 255, 255);
+  font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+.lol {
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(https://tse1.mm.bing.net/th?id=OIP.LLjXkRQNNzQbWfkVanf0FgHaDr&pid=Api&P=0&w=359&h=179);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.eten h1{
+color: rgb(252, 4, 4);
+font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+
+.pinzet {
+  color: rgb(252, 249, 249); 
+  font-family: Georgia, 'Times New Roman', Times, serif ; 
+}
+.plant {
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(https://tse1.mm.bing.net/th?id=OIP.LLjXkRQNNzQbWfkVanf0FgHaDr&pid=Api&P=0&w=359&h=179);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.contact h1{
+  
+}
+.kaas h1{
+  color: red; 
+}
+.lekker {
+  color: white;
+}
+.standpunten li{
+  style: left;
+}
+  
+
